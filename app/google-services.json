@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133317707410",
+    "firebase_url": "https://rubee-chat.firebaseio.com",
+    "project_id": "rubee-chat",
+    "storage_bucket": "rubee-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133317707410:android:f6284146b270a71437884b",
+        "android_client_info": {
+          "package_name": "com.example.rubeechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133317707410-orflcv9kin5crsjdc4t8pjl0g7ilttvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubeechat",
+            "certificate_hash": "ca5baa6501b3f4a9f9ab68749f4a88c92264f23b"
+          }
+        },
+        {
+          "client_id": "133317707410-s8fsa00dlasba8oouommu132fobup37i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhrvyBjmKwfHw754aAbx1rg_yaenGsOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133317707410-s8fsa00dlasba8oouommu132fobup37i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
